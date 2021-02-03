@@ -1,6 +1,6 @@
 {
   "name": "sample-express-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A sample app using Express",
   "scripts": {
     "start": "node ./bin/www"
